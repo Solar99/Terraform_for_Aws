@@ -1,0 +1,1 @@
+templatefile("user_data.tpl",{f_name = "Andrey",l_name = "Pastushenko",names  = ["Vasya", "Kolya", "Petya", "John", "Donald", "Masha"]})
